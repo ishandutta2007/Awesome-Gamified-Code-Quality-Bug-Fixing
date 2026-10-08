@@ -72,49 +72,49 @@ Welcome to the ultimate curated directory of **gamified code quality platforms**
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Ruff](https://github.com/astral-sh/ruff)** [![Stars](https://img.shields.io/github/stars/astral-sh/ruff?style=social&color=white)](https://github.com/astral-sh/ruff/stargazers)  
-  **Extremely fast Python linter and code formatter written in Rust**, MIT licensed. **32.5K+ GitHub stars** — **10-100x faster than Flake8 & Black** . **Replaces dozens of Python code quality plugins** . ⚡ 🐍
+  **Extremely fast Python linter and code formatter written in Rust**, MIT licensed. **32.5K+ GitHub_Stars** — **10-100x faster than Flake8 & Black** . **Replaces dozens of Python code quality plugins** . ⚡ 🐍
 
 - **[Clang-Tidy (LLVM)](https://github.com/llvm/llvm-project)** [![Stars](https://img.shields.io/github/stars/llvm/llvm-project?style=social&color=white)](https://github.com/llvm/llvm-project/stargazers)  
-  **Clang-based C++ linter and refactoring tool**, Apache-2.0 with LLVM Exception. **28.4K+ GitHub stars** — **diagnoses coding errors, style violations, and static bugs in C/C++** . ⚙️ 💻
+  **Clang-based C++ linter and refactoring tool**, Apache-2.0 with LLVM Exception. **28.4K+ GitHub_Stars** — **diagnoses coding errors, style violations, and static bugs in C/C++** . ⚙️ 💻
 
 - **[ESLint](https://github.com/eslint/eslint)** [![Stars](https://img.shields.io/github/stars/eslint/eslint?style=social&color=white)](https://github.com/eslint/eslint/stargazers)  
-  **Pluggable JavaScript & TypeScript linter**, MIT licensed. **25.2K+ GitHub stars** — **the standard for JavaScript and TypeScript linting** . **Fully pluggable architecture** . **The most widely used JavaScript code quality tool** . 🟨 ⚡
+  **Pluggable JavaScript & TypeScript linter**, MIT licensed. **25.2K+ GitHub_Stars** — **the standard for JavaScript and TypeScript linting** . **Fully pluggable architecture** . **The most widely used JavaScript code quality tool** . 🟨 ⚡
 
 - **[golangci-lint](https://github.com/golangci/golangci-lint)** [![Stars](https://img.shields.io/github/stars/golangci/golangci-lint?style=social&color=white)](https://github.com/golangci/golangci-lint/stargazers)  
-  **Fast Go linters runner**, GPL-3.0 licensed. **15.1K+ GitHub stars** — **runs 100+ linters in parallel** . **The standard for Go code quality** . 🚀 🐹
+  **Fast Go linters runner**, GPL-3.0 licensed. **15.1K+ GitHub_Stars** — **runs 100+ linters in parallel** . **The standard for Go code quality** . 🚀 🐹
 
 - **[RuboCop](https://github.com/rubocop/rubocop)** [![Stars](https://img.shields.io/github/stars/rubocop/rubocop?style=social&color=white)](https://github.com/rubocop/rubocop/stargazers)  
-  **Ruby static code analyzer and formatter**, MIT licensed. **12.4K+ GitHub stars** — **enforces community Ruby style guide** . **The standard for Ruby code quality** . 💎 🔍
+  **Ruby static code analyzer and formatter**, MIT licensed. **12.4K+ GitHub_Stars** — **enforces community Ruby style guide** . **The standard for Ruby code quality** . 💎 🔍
 
 - **[Semgrep](https://github.com/semgrep/semgrep)** [![Stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers)  
-  **Lightweight static analysis engine for security**, LGPL-2.1 licensed. **10.8K+ GitHub stars** — **pattern-based scanning across 30+ languages** . **Fast, customizable rules** for finding bugs and security issues in CI/CD pipelines . **The most flexible open-source SAST tool** . 🛡️ ⚡
+  **Lightweight static analysis engine for security**, LGPL-2.1 licensed. **10.8K+ GitHub_Stars** — **pattern-based scanning across 30+ languages** . **Fast, customizable rules** for finding bugs and security issues in CI/CD pipelines . **The most flexible open-source SAST tool** . 🛡️ ⚡
 
 - **[SonarQube Community Edition](https://github.com/SonarSource/sonarqube)** [![Stars](https://img.shields.io/github/stars/SonarSource/sonarqube?style=social&color=white)](https://github.com/SonarSource/sonarqube/stargazers)  
-  **Continuous code quality inspection platform**, LGPL-3.0 licensed. **9.8K+ GitHub stars** — **the industry standard for static analysis** . **30+ languages supported** — Java, C#, JavaScript, TypeScript, Python, Go, and more . **Detects bugs, vulnerabilities, and code smells** . **Quality gates enforce standards** . **Self-hosted with Docker** . 🔍 🔷
+  **Continuous code quality inspection platform**, LGPL-3.0 licensed. **9.8K+ GitHub_Stars** — **the industry standard for static analysis** . **30+ languages supported** — Java, C#, JavaScript, TypeScript, Python, Go, and more . **Detects bugs, vulnerabilities, and code smells** . **Quality gates enforce standards** . **Self-hosted with Docker** . 🔍 🔷
 
 - **[Checkstyle](https://github.com/checkstyle/checkstyle)** [![Stars](https://img.shields.io/github/stars/checkstyle/checkstyle?style=social&color=white)](https://github.com/checkstyle/checkstyle/stargazers)  
-  **Java code standard checker**, LGPL-2.1 licensed. **8.1K+ GitHub stars** — **enforces coding standards and style conventions** . **The standard for Java style checking** . 📏 ☕
+  **Java code standard checker**, LGPL-2.1 licensed. **8.1K+ GitHub_Stars** — **enforces coding standards and style conventions** . **The standard for Java style checking** . 📏 ☕
 
 - **[CodeQL](https://github.com/github/codeql)** [![Stars](https://img.shields.io/github/stars/github/codeql?style=social&color=white)](https://github.com/github/codeql/stargazers)  
-  **Semantic code analysis engine by GitHub**, MIT licensed. **7.2K+ GitHub stars** — **query-based vulnerability detection** that treats code as data . **Powers GitHub's code scanning feature** . **The most sophisticated open-source code analysis engine** . 🧬 🔒
+  **Semantic code analysis engine by GitHub**, MIT licensed. **7.2K+ GitHub_Stars** — **query-based vulnerability detection** that treats code as data . **Powers GitHub's code scanning feature** . **The most sophisticated open-source code analysis engine** . 🧬 🔒
 
 - **[Bandit](https://github.com/PyCQA/bandit)** [![Stars](https://img.shields.io/github/stars/PyCQA/bandit?style=social&color=white)](https://github.com/PyCQA/bandit/stargazers)  
-  **Security oriented static analysis for Python**, Apache-2.0 licensed. **6.5K+ GitHub stars** — **scans Python AST for common security vulnerabilities** . **Standard tool for Python SAST in CI/CD** . 🛡️ 🐍
+  **Security oriented static analysis for Python**, Apache-2.0 licensed. **6.5K+ GitHub_Stars** — **scans Python AST for common security vulnerabilities** . **Standard tool for Python SAST in CI/CD** . 🛡️ 🐍
 
 - **[Detekt](https://github.com/detekt/detekt)** [![Stars](https://img.shields.io/github/stars/detekt/detekt?style=social&color=white)](https://github.com/detekt/detekt/stargazers)  
-  **Static code analysis for Kotlin**, Apache-2.0 licensed. **6.1K+ GitHub stars** — **complexity metrics, code smell detection, and style checking** . **Highly configurable with rule sets** . 🎯 📱
+  **Static code analysis for Kotlin**, Apache-2.0 licensed. **6.1K+ GitHub_Stars** — **complexity metrics, code smell detection, and style checking** . **Highly configurable with rule sets** . 🎯 📱
 
 - **[Pylint](https://github.com/pylint-dev/pylint)** [![Stars](https://img.shields.io/github/stars/pylint-dev/pylint?style=social&color=white)](https://github.com/pylint-dev/pylint/stargazers)  
-  **Static code analyzer for Python**, GPL-2.0 licensed. **5.4K+ GitHub stars** — **the most comprehensive Python linter** . **Detects errors, enforces coding standards, and suggests refactoring** . **Plugin system for framework-specific checks** . 🐍 🧪
+  **Static code analyzer for Python**, GPL-2.0 licensed. **5.4K+ GitHub_Stars** — **the most comprehensive Python linter** . **Detects errors, enforces coding standards, and suggests refactoring** . **Plugin system for framework-specific checks** . 🐍 🧪
 
 - **[PMD](https://github.com/pmd/pmd)** [![Stars](https://img.shields.io/github/stars/pmd/pmd?style=social&color=white)](https://github.com/pmd/pmd/stargazers)  
-  **Extensible multilanguage static analyzer**, BSD-4-Clause licensed. **4.9K+ GitHub stars** — **finds unused variables, empty catch blocks, and unnecessary object creation** . **Supports Java, Apex, and more** . ☕ 🛠️
+  **Extensible multilanguage static analyzer**, BSD-4-Clause licensed. **4.9K+ GitHub_Stars** — **finds unused variables, empty catch blocks, and unnecessary object creation** . **Supports Java, Apex, and more** . ☕ 🛠️
 
 - **[Bearer](https://github.com/Bearer/bearer)** [![Stars](https://img.shields.io/github/stars/Bearer/bearer?style=social&color=white)](https://github.com/Bearer/bearer/stargazers)  
-  **Code security scanning (SAST)**, Elastic License 2.0. **2.1K+ GitHub stars** — **discovers, filters, and prioritizes security and privacy risks** . **Data flow analysis for sensitive data leaks** . 🐻 🔒
+  **Code security scanning (SAST)**, Elastic License 2.0. **2.1K+ GitHub_Stars** — **discovers, filters, and prioritizes security and privacy risks** . **Data flow analysis for sensitive data leaks** . 🐻 🔒
 
 - **[MegaLinter](https://github.com/oxsecurity/megalinter)** [![Stars](https://img.shields.io/github/stars/oxsecurity/megalinter?style=social&color=white)](https://github.com/oxsecurity/megalinter/stargazers)  
-  **Analyzes 50 languages in one tool**, MIT licensed. **1.9K+ GitHub stars** — **runs 100+ linters and formatters in a single Docker container** . **GitHub Action, CI integration, or local execution** . 🦙 🐳
+  **Analyzes 50 languages in one tool**, MIT licensed. **1.9K+ GitHub_Stars** — **runs 100+ linters and formatters in a single Docker container** . **GitHub Action, CI integration, or local execution** . 🦙 🐳
 
 ---
 
@@ -148,7 +148,7 @@ If you find this gamified code quality repository useful, please consider suppor
 ## ⚠️ Disclaimer ℹ️
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-- **AWS BugBust was retired as a standalone service** — **Amazon CodeGuru Reviewer continues** for automated code review . **SonarQube Community Edition is the industry standard for open-source static analysis** with **9K+ GitHub stars** and **30+ languages** .
+- **AWS BugBust was retired as a standalone service** — **Amazon CodeGuru Reviewer continues** for automated code review . **SonarQube Community Edition is the industry standard for open-source static analysis** with **9K+ GitHub_Stars** and **30+ languages** .
 - **Secure Code Warrior is the leading gamified secure coding platform** — **used by 600+ enterprises** with **hands-on challenges, tournaments, and leaderboards** . **Snyk Learn provides free security education** for all developers .
 - **Open-source code quality tools are not turnkey** — **SonarQube requires a database (PostgreSQL) and JVM** . **Semgrep requires rule authoring** . **CodeQL requires a build and database creation step** . **Always validate quality gates and false positive rates with a proof-of-concept** before production deployment . 🎮
 
